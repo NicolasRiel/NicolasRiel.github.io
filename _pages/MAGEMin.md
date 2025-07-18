@@ -13,7 +13,7 @@ While MAGEMin is the engine for the prediction of the stable phases, it is best 
 
 ![MAGEMinApp](/files/MAGEMinApp_overview.png)
 
-Try out MAGEMin!
+## Try out MAGEMin!
 
 * Computational Thermodynamics [GitHub](https://github.com/ComputationalThermodynamics)
 * MAGEMin [GitHub](https://github.com/ComputationalThermodynamics/MAGEMin)
@@ -21,3 +21,8 @@ Try out MAGEMin!
 * MAGEMinApp [GitHub](https://github.com/ComputationalThermodynamics/MAGEMinApp.jl)
 * MAGEMin [documentation](https://computationalthermodynamics.github.io/MAGEMin_C.jl/dev/)
 
+### Installation guidelines:
+
+<iframe src="https://nicolasriel.github.io/files/0_MAGEMin_install.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a [PDF of the installation guidelines](https://nicolasriel.github.io/files/0_MAGEMin_install.pdf).
