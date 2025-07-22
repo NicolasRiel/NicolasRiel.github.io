@@ -12,10 +12,17 @@ github-color: "#171516"
 blogger-color: "#F37100"
 ---
 
-My research lies at the intersection of petrology (stable phase equilibrium modeling), reactive fluid and magma transport, and geodynamic modeling, with a strong emphasis on development. Currently, my work focuses on two primary areas:
+My research lies at the intersection of phase equilibrium modeling, reactive fluid and magma transport, and 3-D geodynamic modeling. 
 
+Currently, my work focuses on three primary targets:
+
+* The development of MAGEMin, a thermodynamic equilibrium modeling set of tools tailored for geodynamic modeling coupling and systematic petrological applications.
 * The chemical evolution of the crust during magma and fluid transfer, investigated through structural analysis, thermodynamic modeling, geochemical data integration, and coupled thermo-mechanical simulations.
 * 2D and 3D geodynamic modeling of subduction initiation and associated mass and heat transfer processes, with implications for plate tectonics and lithospheric evolution.
+
+  
+
+![MAGEMinApp](/files/Research_interest.jpg)
 
 ## Teaching
 
