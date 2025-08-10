@@ -29,6 +29,39 @@ Soderman, Caroline R, Weller, Owen M, Beard, Charles D, Riel, Nicolas, Green, El
 
 {% endraw %}
 
+## [https://doi.org/10.1029/2024TC008625](#https://doi.org/10.1029/2024TC008625)
+
+Gomes, A. S., Rosas, F. M., Riel, N., Schellart, W. P., Almeida, J., and Duarte, J. C., "**Numerical Geodynamic Modeling of Buoyancy-Driven Tethyan-type Ophiolite Emplacement**," *Tectonics*, Vol. 44, No. 8, 2025, e2024TC008625. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024TC008625' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1029/2024TC008625' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Abstract Ophiolites are exposed remnants of oceanic lithosphere that avoid subduction and are instead subaerially exposed, being usually emplaced onto a continental domain. One proposed emplacement mechanism, the Tethyan-type, requires the subduction of a continental margin beneath an oceanic overriding plate (OP) and subsequent exhumation of the subducted continental crust. The extruding crust separates a portion of the overlaying plate, creating the ophiolite. Here, we use 2D gravity-driven thermomechanical numerical models with visco-plastic rheologies to test the sensitivity of this process to changes in the OP configuration. Specifically, for the OP, we test two end-member plate ages (10 and 60 Myr) and the presence versus absence of a weak serpentinite layer beneath the oceanic crust, as well as the different combinations of these variables. Results show that Tethyan-type ophiolite emplacement is physically viable under all prescribed conditions, although with significant disparities in between tests. The absence of a serpentinite layer is preferably associated with delayed crustal extrusion and with emplacement of relatively smaller ophiolites. Conversely, the presence of this weak layer leads to the decoupling of the OP's crust and mantle, and to a premature, facilitated extrusion of the continental crust across the serpentinized unit. These conditions favor emplacement of larger ophiolites, separated by also larger continental windows. Plate age has a second order influence in the emplacement process. Older plates tend to delay the onset of deep continental delamination, but at the same time tend to accelerate surface crustal extrusion.
+
+[](#https://doi.org/10.1029/2024TC008625Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {https://doi.org/10.1029/2024TC008625,
+    author = {Gomes, A. S. and Rosas, F. M. and Riel, N. and Schellart, W. P. and Almeida, J. and Duarte, J. C.},
+    title = {Numerical Geodynamic Modeling of Buoyancy-Driven Tethyan-type Ophiolite Emplacement},
+    journal = {Tectonics},
+    volume = {44},
+    number = {8},
+    pages = {e2024TC008625},
+    keywords = {ophiolite emplacement, numerical modeling},
+    doi = {https://doi.org/10.1029/2024TC008625},
+    url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024TC008625},
+    eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024TC008625},
+    note = {e2024TC008625 2024TC008625},
+    abstract = {Abstract Ophiolites are exposed remnants of oceanic lithosphere that avoid subduction and are instead subaerially exposed, being usually emplaced onto a continental domain. One proposed emplacement mechanism, the Tethyan-type, requires the subduction of a continental margin beneath an oceanic overriding plate (OP) and subsequent exhumation of the subducted continental crust. The extruding crust separates a portion of the overlaying plate, creating the ophiolite. Here, we use 2D gravity-driven thermomechanical numerical models with visco-plastic rheologies to test the sensitivity of this process to changes in the OP configuration. Specifically, for the OP, we test two end-member plate ages (10 and 60 Myr) and the presence versus absence of a weak serpentinite layer beneath the oceanic crust, as well as the different combinations of these variables. Results show that Tethyan-type ophiolite emplacement is physically viable under all prescribed conditions, although with significant disparities in between tests. The absence of a serpentinite layer is preferably associated with delayed crustal extrusion and with emplacement of relatively smaller ophiolites. Conversely, the presence of this weak layer leads to the decoupling of the OP's crust and mantle, and to a premature, facilitated extrusion of the continental crust across the serpentinized unit. These conditions favor emplacement of larger ophiolites, separated by also larger continental windows. Plate age has a second order influence in the emplacement process. Older plates tend to delay the onset of deep continental delamination, but at the same time tend to accelerate surface crustal extrusion.},
+    year = {2025}
+}
+```
+
+{% endraw %}
+
 ## [liu2025thermal](#liu2025thermal)
 
 Liu, Jia-Hui, Kaempf, Jonas, Huang, Meiyun, Riel, Nicolas, Guo, Jinghui, Huang, Guangyu, Chen, Lin, Jiao, Shujuan, Mao, Mengxia, Clark, Chris, and others, "**Thermal structure of a Paleoproterozoic orogen: A case study from the Wutai--Fuping crustal section**," *Journal of Petrology*, Vol. 66, No. 5, 2025, egaf043.
