@@ -7,6 +7,36 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [Duarte2025](#Duarte2025)
+
+Duarte, Joao, Riel, Nicolas, Civiero, Chiara, Silva, Sonia, Rosas, Filipe M, Schellart, Wouter P, Almeida, Jaime, Terrinha, Pedro, and Ribeiro, Antonio, "**Seismic evidence for oceanic plate delamination offshore Southwest Iberia**," *Nature Geoscience*, Aug 2025. <a href='https://doi.org/10.1038/s41561-025-01781-6' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1038/s41561-025-01781-6' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Subduction of oceanic lithosphere and delamination of continental lithosphere constitute the two predominant mechanisms by which the Earth's surface is recycled into the mantle. Continental plate delamination typically occurs in collisional orogens by the separation of the lithospheric mantle from the overlying lighter crust, aided by weak layers within continental lithosphere. By contrast, oceanic lithosphere is generally considered to be sufficiently rigid to inhibit delamination. Here we show from seismic imaging and numerical simulations that delamination of oceanic lithosphere is occurring offshore Southwest Iberia. Specifically, seismic tomography reveals a high-velocity anomaly that we interpret as a delaminating block of old oceanic lithosphere, a process that we reproduce with numerical simulations. We propose that this process was triggered by plate convergence and assisted by a thick serpentinized layer that allows the lithospheric mantle to decouple from the overlying crust. We suggest that such oceanic delamination may facilitate subduction initiation, a long-unsolved problem in the theory of plate tectonics, and may be responsible for some of the highest-magnitude earthquakes in Europe, including the M8.5--8.7 Great Lisbon Earthquake of 1755 and the M7.9 San Vincente Earthquake of 1969.
+
+[](#Duarte2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {Duarte2025,
+    author={Duarte, Joao and Riel, Nicolas and Civiero, Chiara and Silva, Sonia and Rosas, Filipe M and Schellart, Wouter P and Almeida, Jaime and Terrinha, Pedro and Ribeiro, Antonio},
+    title={Seismic evidence for oceanic plate delamination offshore Southwest Iberia},
+    journal={Nature Geoscience},
+    year={2025},
+    month={Aug},
+    day={27},
+    abstract={Subduction of oceanic lithosphere and delamination of continental lithosphere constitute the two predominant mechanisms by which the Earth's surface is recycled into the mantle. Continental plate delamination typically occurs in collisional orogens by the separation of the lithospheric mantle from the overlying lighter crust, aided by weak layers within continental lithosphere. By contrast, oceanic lithosphere is generally considered to be sufficiently rigid to inhibit delamination. Here we show from seismic imaging and numerical simulations that delamination of oceanic lithosphere is occurring offshore Southwest Iberia. Specifically, seismic tomography reveals a high-velocity anomaly that we interpret as a delaminating block of old oceanic lithosphere, a process that we reproduce with numerical simulations. We propose that this process was triggered by plate convergence and assisted by a thick serpentinized layer that allows the lithospheric mantle to decouple from the overlying crust. We suggest that such oceanic delamination may facilitate subduction initiation, a long-unsolved problem in the theory of plate tectonics, and may be responsible for some of the highest-magnitude earthquakes in Europe, including the M8.5--8.7 Great Lisbon Earthquake of 1755 and the M7.9 San Vincente Earthquake of 1969.},
+    issn={1752-0908},
+    doi={10.1038/s41561-025-01781-6},
+    url={https://doi.org/10.1038/s41561-025-01781-6}
+}
+```
+
+{% endraw %}
+
 ## [soderman2025mid](#soderman2025mid)
 
 Soderman, Caroline R, Weller, Owen M, Beard, Charles D, Riel, Nicolas, Green, Eleanor CR, and Holland, Tim JB, "**A mid-crustal tipping point between silica-undersaturated and silica-oversaturated magmas**," *Nature Geoscience*, 2025, pp. 1-8.
@@ -155,7 +185,7 @@ Forshaw, Jacob B, Dominguez, Hugo, Markmann, Thorsten A, Tamblyn, Renee, Hermann
 
 ## [kaus2024geophysicalmodelgenerator](#kaus2024geophysicalmodelgenerator)
 
-Kaus, Boris JP, Thielmann, Marcel, Aellig, Pascal, de Montserrat, Albert, de Siena, Luca, Frasukiewicz, Jacob, Fuchs, Lukas, Piccolo, Andrea, Ranocha, Hendrik, Riel, Nicolas , and others, "**GeophysicalModelGenerator. jl: A Julia package to visualise geoscientific data and create numerical model setups**," *Journal of Open Source Software*, Vol. 9, No. 103, 2024, p. 6763.
+Kaus, Boris JP, Thielmann, Marcel, Aellig, Pascal, de Montserrat, Albert, de Siena, Luca, Frasukiewicz, Jacob, Fuchs, Lukas, Piccolo, Andrea, Ranocha, Hendrik, Riel, Nicolas, and others, "**GeophysicalModelGenerator. jl: A Julia package to visualise geoscientific data and create numerical model setups**," *Journal of Open Source Software*, Vol. 9, No. 103, 2024, p. 6763.
 
 [](#kaus2024geophysicalmodelgeneratorBib)
 **BibTeX entry:**
@@ -165,7 +195,7 @@ Kaus, Boris JP, Thielmann, Marcel, Aellig, Pascal, de Montserrat, Albert, de Sie
 ```bibtex
 @ARTICLE {kaus2024geophysicalmodelgenerator,
       title={GeophysicalModelGenerator. jl: A Julia package to visualise geoscientific data and create numerical model setups},
-      author={Kaus, Boris JP and Thielmann, Marcel and Aellig, Pascal and de Montserrat, Albert and de Siena, Luca and Frasukiewicz, Jacob and Fuchs, Lukas and Piccolo, Andrea and Ranocha, Hendrik and Riel, Nicolas  and others},
+      author={Kaus, Boris JP and Thielmann, Marcel and Aellig, Pascal and de Montserrat, Albert and de Siena, Luca and Frasukiewicz, Jacob and Fuchs, Lukas and Piccolo, Andrea and Ranocha, Hendrik and Riel, Nicolas and others},
       journal={Journal of Open Source Software},
       volume={9},
       number={103},
@@ -178,7 +208,7 @@ Kaus, Boris JP, Thielmann, Marcel, Aellig, Pascal, de Montserrat, Albert, de Sie
 
 ## [GANADE2024118893](#GANADE2024118893)
 
-Carlos E. Ganade, Nicolas Riel, Gianreto Manatschal, Lucas R. Tesser, Joerg Hermann, Daniela Rubatto, Roberto F. Weinberg, Pierre Lanari, and Boris J.P. Kaus, "**Exhumation of ultra-high pressure (UHP) rocks modulated by rifted margin-subduction feedback: Implications for their preservation in old collisional orogens**," *Earth and Planetary Science Letters*, Vol. 643, 2024, p. 118893. <a href='https://www.sciencedirect.com/science/article/pii/S0012821X24003261' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1016/j.epsl.2024.118893' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Carlos E. Ganade, Nicolas, Riel, Gianreto Manatschal, Lucas R. Tesser, Joerg Hermann, Daniela Rubatto, Roberto F. Weinberg, Pierre Lanari, and Boris J.P. Kaus, "**Exhumation of ultra-high pressure (UHP) rocks modulated by rifted margin-subduction feedback: Implications for their preservation in old collisional orogens**," *Earth and Planetary Science Letters*, Vol. 643, 2024, p. 118893. <a href='https://www.sciencedirect.com/science/article/pii/S0012821X24003261' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1016/j.epsl.2024.118893' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#GANADE2024118893Bib)
 **BibTeX entry:**
@@ -195,7 +225,7 @@ Carlos E. Ganade, Nicolas Riel, Gianreto Manatschal, Lucas R. Tesser, Joerg Herm
     issn = {0012-821X},
     doi = {https://doi.org/10.1016/j.epsl.2024.118893},
     url = {https://www.sciencedirect.com/science/article/pii/S0012821X24003261},
-    author = {Carlos E. Ganade and Nicolas Riel and Gianreto Manatschal and Lucas R. Tesser and Joerg Hermann and Daniela Rubatto and Roberto F. Weinberg and Pierre Lanari and Boris J.P. Kaus}
+    author = {Carlos E. Ganade and Nicolas, Riel and Gianreto Manatschal and Lucas R. Tesser and Joerg Hermann and Daniela Rubatto and Roberto F. Weinberg and Pierre Lanari and Boris J.P. Kaus}
 }
 ```
 
@@ -225,7 +255,7 @@ Weller, Owen M, Holland, Tim JB, Soderman, Caroline R, Green, Eleanor CR, Powell
 
 ## [schmitt2023zircon](#schmitt2023zircon)
 
-Schmitt, AK, Sliwinski, J, Caricchi, L, Bachmann, O, Riel, Nand Kaus, BJP, de Leon, A Cisneros, Cornet, J, Friedrichs, B, Lovera, O, and others, "**Zircon age spectra to quantify magma evolution**," *Geosphere*, Vol. 19, No. 4, 2023, pp. 1006-1031.
+Schmitt, AK, Sliwinski, J, Caricchi, L, Bachmann, O, Riel, N, Kaus, BJP, de Leon, A Cisneros, Cornet, J, Friedrichs, B, Lovera, O, and others, "**Zircon age spectra to quantify magma evolution**," *Geosphere*, Vol. 19, No. 4, 2023, pp. 1006-1031.
 
 [](#schmitt2023zirconBib)
 **BibTeX entry:**
@@ -235,7 +265,7 @@ Schmitt, AK, Sliwinski, J, Caricchi, L, Bachmann, O, Riel, Nand Kaus, BJP, de Le
 ```bibtex
 @ARTICLE {schmitt2023zircon,
       title={Zircon age spectra to quantify magma evolution},
-      author={Schmitt, AK and Sliwinski, J and Caricchi, L and Bachmann, O and Riel, Nand Kaus, BJP and de Leon, A Cisneros and Cornet, J and Friedrichs, B and Lovera, O and others},
+      author={Schmitt, AK and Sliwinski, J and Caricchi, L and Bachmann, O and Riel, N and Kaus, BJP and de Leon, A Cisneros and Cornet, J and Friedrichs, B and Lovera, O and others},
       journal={Geosphere},
       volume={19},
       number={4},
@@ -340,7 +370,7 @@ Salerno, V Morena, Capitanio, Fabio A, Farrington, Rebecca J, and Riel, Nicolas,
 
 ## [rosas2017analogue](#rosas2017analogue)
 
-Rosas, Filipe M, Duarte, Joao C, Almeida, Pedro, Schellart, WP, and Riel, Nand Terrinha, Pedro, "**Analogue modelling of thrust systems: Passive vs. active hanging wall strain accommodation and sharp vs. smooth fault-ramp geometries**," *Journal of Structural Geology*, Vol. 99, 2017, pp. 45-69.
+Rosas, Filipe M, Duarte, Joao C, Almeida, Pedro, Schellart, WP, Riel, N, and Terrinha, Pedro, "**Analogue modelling of thrust systems: Passive vs. active hanging wall strain accommodation and sharp vs. smooth fault-ramp geometries**," *Journal of Structural Geology*, Vol. 99, 2017, pp. 45-69.
 
 [](#rosas2017analogueBib)
 **BibTeX entry:**
@@ -350,7 +380,7 @@ Rosas, Filipe M, Duarte, Joao C, Almeida, Pedro, Schellart, WP, and Riel, Nand T
 ```bibtex
 @ARTICLE {rosas2017analogue,
       title={Analogue modelling of thrust systems: Passive vs. active hanging wall strain accommodation and sharp vs. smooth fault-ramp geometries},
-      author={Rosas, Filipe M and Duarte, Joao C and Almeida, Pedro and Schellart, WP and Riel, Nand Terrinha, Pedro},
+      author={Rosas, Filipe M and Duarte, Joao C and Almeida, Pedro and Schellart, WP and Riel, N and Terrinha, Pedro},
       journal={Journal of Structural Geology},
       volume={99},
       pages={45--69},
@@ -410,7 +440,7 @@ Lanari, Pierre, Riel, Nicolas, Guillot, Stephane, Vidal, Olivier, Schwartz, Step
 
 ## [Riel2013implications](#Riel2013implications)
 
-Riel Nicolas,, Guillot, S, Jaillard, E, Martelat, JE, Paquette, JL, Schwartz, S, Goncalvez, P, Duclaux, G, Thiebaud, N, Lanari, P, and others, "**Implications for high-temperature metamorphism in a forearc zone: a metamorphic and geochronogical study of the Triassic El Oro metamorphic complex in Ecuador**," *Lithos*, Vol. 156, 2013, pp. 41-68.
+Riel, Nicolas, Guillot, S, Jaillard, E, Martelat, JE, Paquette, JL, Schwartz, S, Goncalvez, P, Duclaux, G, Thiebaud, N, Lanari, P, and others, "**Implications for high-temperature metamorphism in a forearc zone: a metamorphic and geochronogical study of the Triassic El Oro metamorphic complex in Ecuador**," *Lithos*, Vol. 156, 2013, pp. 41-68.
 
 [](#Riel2013implicationsBib)
 **BibTeX entry:**
@@ -420,7 +450,7 @@ Riel Nicolas,, Guillot, S, Jaillard, E, Martelat, JE, Paquette, JL, Schwartz, S,
 ```bibtex
 @ARTICLE {Riel2013implications,
       title={Implications for high-temperature metamorphism in a forearc zone: a metamorphic and geochronogical study of the Triassic El Oro metamorphic complex in Ecuador},
-      author={Riel Nicolas, and Guillot, S and Jaillard, E and Martelat, JE and Paquette, JL and Schwartz, S and Goncalvez, P and Duclaux, G and Thiebaud, N and Lanari, P and others},
+      author={Riel, Nicolas and Guillot, S and Jaillard, E and Martelat, JE and Paquette, JL and Schwartz, S and Goncalvez, P and Duclaux, G and Thiebaud, N and Lanari, P and others},
       journal={Lithos},
       volume={156},
       pages={41--68},
@@ -432,7 +462,7 @@ Riel Nicolas,, Guillot, S, Jaillard, E, Martelat, JE, Paquette, JL, Schwartz, S,
 
 ## [riel2014fore](#riel2014fore)
 
-Riel Nicolas,, Martelat, Jean-Emmanuel, Guillot, Stephane, Jaillard, Etienne, Monie, Patrick, Yuquilema, Jonatan, Duclaux, Guillaume, and Mercier, Jonathan, "**Forearc tectonothermal evolution of the El Oro metamorphic province (Ecuador) during the Mesozoic**," *Tectonics*, Vol. 33, No. 10, 2014, pp. 1989-2012.
+Riel, Nicolas, Martelat, Jean-Emmanuel, Guillot, Stephane, Jaillard, Etienne, Monie, Patrick, Yuquilema, Jonatan, Duclaux, Guillaume, and Mercier, Jonathan, "**Forearc tectonothermal evolution of the El Oro metamorphic province (Ecuador) during the Mesozoic**," *Tectonics*, Vol. 33, No. 10, 2014, pp. 1989-2012.
 
 [](#riel2014foreBib)
 **BibTeX entry:**
@@ -442,7 +472,7 @@ Riel Nicolas,, Martelat, Jean-Emmanuel, Guillot, Stephane, Jaillard, Etienne, Mo
 ```bibtex
 @ARTICLE {riel2014fore,
       title={Forearc tectonothermal evolution of the El Oro metamorphic province (Ecuador) during the Mesozoic},
-      author={Riel Nicolas, and Martelat, Jean-Emmanuel and Guillot, Stephane and Jaillard, Etienne and Monie, Patrick and Yuquilema, Jonatan and Duclaux, Guillaume and Mercier, Jonathan},
+      author={Riel, Nicolas and Martelat, Jean-Emmanuel and Guillot, Stephane and Jaillard, Etienne and Monie, Patrick and Yuquilema, Jonatan and Duclaux, Guillaume and Mercier, Jonathan},
       journal={Tectonics},
       volume={33},
       number={10},
@@ -480,7 +510,7 @@ Capitanio, FA, Replumaz, A, and Riel, N, "**Reconciling subduction dynamics duri
 
 ## [riel2015techniques](#riel2015techniques)
 
-Riel Nicolas and Lanari, Pierre, "**Techniques, methodes et outils pour la quantification du metamorphisme**," *Geochronique*, Vol. 136, 2015, pp. 53-60.
+Riel, Nicolas and Lanari, Pierre, "**Techniques, methodes et outils pour la quantification du metamorphisme**," *Geochronique*, Vol. 136, 2015, pp. 53-60.
 
 [](#riel2015techniquesBib)
 **BibTeX entry:**
@@ -490,7 +520,7 @@ Riel Nicolas and Lanari, Pierre, "**Techniques, methodes et outils pour la quant
 ```bibtex
 @ARTICLE {riel2015techniques,
       title={Techniques, methodes et outils pour la quantification du metamorphisme},
-      author={Riel Nicolas and Lanari, Pierre},
+      author={Riel, Nicolas and Lanari, Pierre},
       journal={Geochronique},
       volume={136},
       pages={53--60},
@@ -503,7 +533,7 @@ Riel Nicolas and Lanari, Pierre, "**Techniques, methodes et outils pour la quant
 
 ## [lamarque2016microstructures](#lamarque2016microstructures)
 
-Lamarque, Gaelle, Bascou, Jerome, Maurice, Claire, Cottin, Jean-Yves, Riel Nicolas,, and Menot, Rene-Pierre, "**Microstructures, deformation mechanisms and seismic properties of a Palaeoproterozoic shear zone: The Mertz shear zone, East-Antarctica**," *Tectonophysics*, Vol. 680, 2016, pp. 174-191.
+Lamarque, Gaelle, Bascou, Jerome, Maurice, Claire, Cottin, Jean-Yves, Riel, Nicolas, and Menot, Rene-Pierre, "**Microstructures, deformation mechanisms and seismic properties of a Palaeoproterozoic shear zone: The Mertz shear zone, East-Antarctica**," *Tectonophysics*, Vol. 680, 2016, pp. 174-191.
 
 [](#lamarque2016microstructuresBib)
 **BibTeX entry:**
@@ -513,7 +543,7 @@ Lamarque, Gaelle, Bascou, Jerome, Maurice, Claire, Cottin, Jean-Yves, Riel Nicol
 ```bibtex
 @ARTICLE {lamarque2016microstructures,
       title={Microstructures, deformation mechanisms and seismic properties of a Palaeoproterozoic shear zone: The Mertz shear zone, East-Antarctica},
-      author={Lamarque, Gaelle and Bascou, Jerome and Maurice, Claire and Cottin, Jean-Yves and Riel Nicolas, and Menot, Rene-Pierre},
+      author={Lamarque, Gaelle and Bascou, Jerome and Maurice, Claire and Cottin, Jean-Yves and Riel, Nicolas and Menot, Rene-Pierre},
       journal={Tectonophysics},
       volume={680},
       pages={174--191},
@@ -526,7 +556,7 @@ Lamarque, Gaelle, Bascou, Jerome, Maurice, Claire, Cottin, Jean-Yves, Riel Nicol
 
 ## [riel2016convection](#riel2016convection)
 
-Riel Nicolas,, Mercier, Jonathan, and Weinberg, Roberto, "**Convection in a partially molten metasedimentary crust? Insights from the El Oro complex (Ecuador)**," *Geology*, Vol. 44, No. 1, 2016, pp. 31-34.
+Riel, Nicolas, Mercier, Jonathan, and Weinberg, Roberto, "**Convection in a partially molten metasedimentary crust? Insights from the El Oro complex (Ecuador)**," *Geology*, Vol. 44, No. 1, 2016, pp. 31-34.
 
 [](#riel2016convectionBib)
 **BibTeX entry:**
@@ -536,7 +566,7 @@ Riel Nicolas,, Mercier, Jonathan, and Weinberg, Roberto, "**Convection in a part
 ```bibtex
 @ARTICLE {riel2016convection,
       title={Convection in a partially molten metasedimentary crust? Insights from the El Oro complex (Ecuador)},
-      author={Riel Nicolas, and Mercier, Jonathan and Weinberg, Roberto},
+      author={Riel, Nicolas and Mercier, Jonathan and Weinberg, Roberto},
       journal={Geology},
       volume={44},
       number={1},
@@ -550,7 +580,7 @@ Riel Nicolas,, Mercier, Jonathan, and Weinberg, Roberto, "**Convection in a part
 
 ## [riel2018numerical](#riel2018numerical)
 
-Riel Nicolas,, Capitanio, Fabio A, and Velic, Mirko, "**Numerical modeling of stress and topography coupling during subduction: Inferences on global vs. regional observables interpretation**," *Tectonophysics*, Vol. 746, 2018, pp. 239-250.
+Riel, Nicolas, Capitanio, Fabio A, and Velic, Mirko, "**Numerical modeling of stress and topography coupling during subduction: Inferences on global vs. regional observables interpretation**," *Tectonophysics*, Vol. 746, 2018, pp. 239-250.
 
 [](#riel2018numericalBib)
 **BibTeX entry:**
@@ -560,7 +590,7 @@ Riel Nicolas,, Capitanio, Fabio A, and Velic, Mirko, "**Numerical modeling of st
 ```bibtex
 @ARTICLE {riel2018numerical,
       title={Numerical modeling of stress and topography coupling during subduction: Inferences on global vs. regional observables interpretation},
-      author={Riel Nicolas, and Capitanio, Fabio A and Velic, Mirko},
+      author={Riel, Nicolas and Capitanio, Fabio A and Velic, Mirko},
       journal={Tectonophysics},
       volume={746},
       pages={239--250},
@@ -573,7 +603,7 @@ Riel Nicolas,, Capitanio, Fabio A, and Velic, Mirko, "**Numerical modeling of st
 
 ## [riel2018permian](#riel2018permian)
 
-Riel Nicolas,, Jaillard, Etienne, Martelat, Jean-Emmanuel, Guillot, Stephane, and Braun, Jean, "**Permian-Triassic Tethyan realm reorganization: Implications for the outward Pangea margin**," *Journal of South American Earth Sciences*, Vol. 81, 2018, pp. 78-86.
+Riel, Nicolas, Jaillard, Etienne, Martelat, Jean-Emmanuel, Guillot, Stephane, and Braun, Jean, "**Permian-Triassic Tethyan realm reorganization: Implications for the outward Pangea margin**," *Journal of South American Earth Sciences*, Vol. 81, 2018, pp. 78-86.
 
 [](#riel2018permianBib)
 **BibTeX entry:**
@@ -583,7 +613,7 @@ Riel Nicolas,, Jaillard, Etienne, Martelat, Jean-Emmanuel, Guillot, Stephane, an
 ```bibtex
 @ARTICLE {riel2018permian,
       title={Permian-Triassic Tethyan realm reorganization: Implications for the outward Pangea margin},
-      author={Riel Nicolas, and Jaillard, Etienne and Martelat, Jean-Emmanuel and Guillot, Stephane and Braun, Jean},
+      author={Riel, Nicolas and Jaillard, Etienne and Martelat, Jean-Emmanuel and Guillot, Stephane and Braun, Jean},
       journal={Journal of South American Earth Sciences},
       volume={81},
       pages={78--86},
@@ -596,7 +626,7 @@ Riel Nicolas,, Jaillard, Etienne, Martelat, Jean-Emmanuel, Guillot, Stephane, an
 
 ## [loury2018permian](#loury2018permian)
 
-Loury, Chloe, Rolland, Yann, Lanari, Pierre, Guillot, Stephane, Bosch, Delphine, Ganino, Clement, Jourdon, Anthony, Petit, Carole, Gallet, Sylvain, Monie, Patrick, and Riel Nicolas, "**Permian charnockites in the Pobeda area: implications for Tarim mantle plume activity and HT metamorphism in the South Tien Shan range**," *Lithos*, Vol. 304, 2018, pp. 135-154.
+Loury, Chloe, Rolland, Yann, Lanari, Pierre, Guillot, Stephane, Bosch, Delphine, Ganino, Clement, Jourdon, Anthony, Petit, Carole, Gallet, Sylvain, Monie, Patrick, and Riel, Nicolas, "**Permian charnockites in the Pobeda area: implications for Tarim mantle plume activity and HT metamorphism in the South Tien Shan range**," *Lithos*, Vol. 304, 2018, pp. 135-154.
 
 [](#loury2018permianBib)
 **BibTeX entry:**
@@ -606,7 +636,7 @@ Loury, Chloe, Rolland, Yann, Lanari, Pierre, Guillot, Stephane, Bosch, Delphine,
 ```bibtex
 @ARTICLE {loury2018permian,
       title={Permian charnockites in the Pobeda area: implications for Tarim mantle plume activity and HT metamorphism in the South Tien Shan range},
-      author={Loury, Chloe and Rolland, Yann and Lanari, Pierre and Guillot, Stephane and Bosch, Delphine and Ganino, Clement and Jourdon, Anthony and Petit, Carole and Gallet, Sylvain and Monie, Patrick and Riel Nicolas},
+      author={Loury, Chloe and Rolland, Yann and Lanari, Pierre and Guillot, Stephane and Bosch, Delphine and Ganino, Clement and Jourdon, Anthony and Petit, Carole and Gallet, Sylvain and Monie, Patrick and Riel, Nicolas},
       journal={Lithos},
       volume={304},
       pages={135--154},
@@ -619,7 +649,7 @@ Loury, Chloe, Rolland, Yann, Lanari, Pierre, Guillot, Stephane, Bosch, Delphine,
 
 ## [riel2019interaction](#riel2019interaction)
 
-Riel Nicolas,, Bouilhol, Pierre, van Hunen, Jeroen, Cornet, Julien, Magni, Valentina, Grigorova, Vili, and Velic, Mirko, "**Interaction between mantle-derived magma and lower arc crust: quantitative reactive melt flow modelling using STyx**," *Geological Society, London, Special Publications*, Vol. 478, No. 1, 2019, pp. 65-87.
+Riel, Nicolas, Bouilhol, Pierre, van Hunen, Jeroen, Cornet, Julien, Magni, Valentina, Grigorova, Vili, and Velic, Mirko, "**Interaction between mantle-derived magma and lower arc crust: quantitative reactive melt flow modelling using STyx**," *Geological Society, London, Special Publications*, Vol. 478, No. 1, 2019, pp. 65-87.
 
 [](#riel2019interactionBib)
 **BibTeX entry:**
@@ -629,7 +659,7 @@ Riel Nicolas,, Bouilhol, Pierre, van Hunen, Jeroen, Cornet, Julien, Magni, Valen
 ```bibtex
 @ARTICLE {riel2019interaction,
       title={Interaction between mantle-derived magma and lower arc crust: quantitative reactive melt flow modelling using STyx},
-      author={Riel Nicolas, and Bouilhol, Pierre and van Hunen, Jeroen and Cornet, Julien and Magni, Valentina and Grigorova, Vili and Velic, Mirko},
+      author={Riel, Nicolas and Bouilhol, Pierre and van Hunen, Jeroen and Cornet, Julien and Magni, Valentina and Grigorova, Vili and Velic, Mirko},
       journal={Geological Society, London, Special Publications},
       volume={478},
       number={1},
@@ -643,7 +673,7 @@ Riel Nicolas,, Bouilhol, Pierre, van Hunen, Jeroen, Cornet, Julien, Magni, Valen
 
 ## [goussin2020carbonated](#goussin2020carbonated)
 
-Goussin, Fanny, Riel Nicolas,, Cordier, Carole, Guillot, Stephane, Boulvais, Philippe, Roperch, Pierrick, Replumaz, Anne, Schulmann, Karel, Dupont-Nivet, Guillaume, Rosas, Filipe, and others, "**Carbonated inheritance in the Eastern Tibetan lithospheric mantle: Petrological evidences and geodynamic implications**," *Geochemistry, Geophysics, Geosystems*, Vol. 21, No. 2, 2020, e2019GC008495.
+Goussin, Fanny, Riel, Nicolas,, Cordier, Carole, Guillot, Stephane, Boulvais, Philippe, Roperch, Pierrick, Replumaz, Anne, Schulmann, Karel, Dupont-Nivet, Guillaume, Rosas, Filipe, and others, "**Carbonated inheritance in the Eastern Tibetan lithospheric mantle: Petrological evidences and geodynamic implications**," *Geochemistry, Geophysics, Geosystems*, Vol. 21, No. 2, 2020, e2019GC008495.
 
 [](#goussin2020carbonatedBib)
 **BibTeX entry:**
@@ -653,7 +683,7 @@ Goussin, Fanny, Riel Nicolas,, Cordier, Carole, Guillot, Stephane, Boulvais, Phi
 ```bibtex
 @ARTICLE {goussin2020carbonated,
       title={Carbonated inheritance in the Eastern Tibetan lithospheric mantle: Petrological evidences and geodynamic implications},
-      author={Goussin, Fanny and Riel Nicolas, and Cordier, Carole and Guillot, Stephane and Boulvais, Philippe and Roperch, Pierrick and Replumaz, Anne and Schulmann, Karel and Dupont-Nivet, Guillaume and Rosas, Filipe and others},
+      author={Goussin, Fanny and Riel, Nicolas, and Cordier, Carole and Guillot, Stephane and Boulvais, Philippe and Roperch, Pierrick and Replumaz, Anne and Schulmann, Karel and Dupont-Nivet, Guillaume and Rosas, Filipe and others},
       journal={Geochemistry, Geophysics, Geosystems},
       volume={21},
       number={2},
@@ -691,7 +721,7 @@ Rummel, Lisa, Kaus, Boris JP, Baumann, Tobias S, White, Richard W, and Riel Nico
 
 ## [schwartz2020unraveling](#schwartz2020unraveling)
 
-Schwartz, Stephane, Gautheron, Cecile, Ketcham, Richard A, Brunet, Fabrice, Corre, Marianna, Agranier, Arnaud, Pinna-Jamme, Rosella, Haurine, Frederic, Monvoin, Gael, and Riel Nicolas,, "**Unraveling the exhumation history of high-pressure ophiolites using magnetite (U-Th-Sm)/He thermochronometry**," *Earth and Planetary Science Letters*, Vol. 543, 2020, p. 116359.
+Schwartz, Stephane, Gautheron, Cecile, Ketcham, Richard A, Brunet, Fabrice, Corre, Marianna, Agranier, Arnaud, Pinna-Jamme, Rosella, Haurine, Frederic, Monvoin, Gael, and Riel Nicolas, "**Unraveling the exhumation history of high-pressure ophiolites using magnetite (U-Th-Sm)/He thermochronometry**," *Earth and Planetary Science Letters*, Vol. 543, 2020, p. 116359.
 
 [](#schwartz2020unravelingBib)
 **BibTeX entry:**
@@ -701,7 +731,7 @@ Schwartz, Stephane, Gautheron, Cecile, Ketcham, Richard A, Brunet, Fabrice, Corr
 ```bibtex
 @ARTICLE {schwartz2020unraveling,
       title={Unraveling the exhumation history of high-pressure ophiolites using magnetite (U-Th-Sm)/He thermochronometry},
-      author={Schwartz, Stephane and Gautheron, Cecile and Ketcham, Richard A and Brunet, Fabrice and Corre, Marianna and Agranier, Arnaud and Pinna-Jamme, Rosella and Haurine, Frederic and Monvoin, Gael and Riel Nicolas, },
+      author={Schwartz, Stephane and Gautheron, Cecile and Ketcham, Richard A and Brunet, Fabrice and Corre, Marianna and Agranier, Arnaud and Pinna-Jamme, Rosella and Haurine, Frederic and Monvoin, Gael and Riel Nicolas},
       journal={Earth and Planetary Science Letters},
       volume={543},
       pages={116359},
@@ -714,7 +744,7 @@ Schwartz, Stephane, Gautheron, Cecile, Ketcham, Richard A, Brunet, Fabrice, Corr
 
 ## [husson2022slow](#husson2022slow)
 
-Husson, Laurent, Riel Nicolas, Aribowo, S, Authemayou, Christine, de Gelder, G, Kaus, BJP, Mallard, C, Natawidjaja, DH, Pedoja, Kevin, and Sarr, AC, "**Slow geodynamics and fast morphotectonics in the far East Tethys**," *Geochemistry, Geophysics, Geosystems*, Vol. 23, No. 1, 2022, e2021GC010167.
+Husson, Laurent, Riel, Nicolas, Aribowo, S, Authemayou, Christine, de Gelder, G, Kaus, BJP, Mallard, C, Natawidjaja, DH, Pedoja, Kevin, and Sarr, AC, "**Slow geodynamics and fast morphotectonics in the far East Tethys**," *Geochemistry, Geophysics, Geosystems*, Vol. 23, No. 1, 2022, e2021GC010167.
 
 [](#husson2022slowBib)
 **BibTeX entry:**
@@ -724,7 +754,7 @@ Husson, Laurent, Riel Nicolas, Aribowo, S, Authemayou, Christine, de Gelder, G, 
 ```bibtex
 @ARTICLE {husson2022slow,
       title={Slow geodynamics and fast morphotectonics in the far East Tethys},
-      author={Husson, Laurent and Riel Nicolas and Aribowo, S and Authemayou, Christine and de Gelder, G and Kaus, BJP and Mallard, C and Natawidjaja, DH and Pedoja, Kevin and Sarr, AC},
+      author={Husson, Laurent and Riel, Nicolas and Aribowo, S and Authemayou, Christine and de Gelder, G and Kaus, BJP and Mallard, C and Natawidjaja, DH and Pedoja, Kevin and Sarr, AC},
       journal={Geochemistry, Geophysics, Geosystems},
       volume={23},
       number={1},
@@ -738,7 +768,7 @@ Husson, Laurent, Riel Nicolas, Aribowo, S, Authemayou, Christine, de Gelder, G, 
 
 ## [almeida2022polarity](#almeida2022polarity)
 
-Almeida, J, Riel N, Rosas, FM, Duarte, JC, and Schellart, WP, "**Polarity-reversal subduction zone initiation triggered by buoyant plateau obstruction**," *Earth and Planetary Science Letters*, Vol. 577, 2022, pp. 117-195.
+Almeida, J, Riel, N, Rosas, FM, Duarte, JC, and Schellart, WP, "**Polarity-reversal subduction zone initiation triggered by buoyant plateau obstruction**," *Earth and Planetary Science Letters*, Vol. 577, 2022, pp. 117-195.
 
 [](#almeida2022polarityBib)
 **BibTeX entry:**
@@ -748,7 +778,7 @@ Almeida, J, Riel N, Rosas, FM, Duarte, JC, and Schellart, WP, "**Polarity-revers
 ```bibtex
 @ARTICLE {almeida2022polarity,
       title={Polarity-reversal subduction zone initiation triggered by buoyant plateau obstruction},
-      author={Almeida, J and Riel N and Rosas, FM and Duarte, JC and Schellart, WP},
+      author={Almeida, J and Riel, N and Rosas, FM and Duarte, JC and Schellart, WP},
       journal={Earth and Planetary Science Letters},
       volume={577},
       pages={117--195},
@@ -761,7 +791,7 @@ Almeida, J, Riel N, Rosas, FM, Duarte, JC, and Schellart, WP, "**Polarity-revers
 
 ## [almeida2022self](#almeida2022self)
 
-Almeida, Jaime, Riel N,, Rosas, Filipe M, Duarte, Joao C, and Kaus, Boris, "**Self-replicating subduction zone initiation by polarity reversal**," *Communications Earth & Environment*, Vol. 3, No. 1, 2022, p. 55.
+Almeida, Jaime, Riel N, Rosas, Filipe M, Duarte, Joao C, and Kaus, Boris, "**Self-replicating subduction zone initiation by polarity reversal**," *Communications Earth & Environment*, Vol. 3, No. 1, 2022, p. 55.
 
 [](#almeida2022selfBib)
 **BibTeX entry:**
@@ -771,7 +801,7 @@ Almeida, Jaime, Riel N,, Rosas, Filipe M, Duarte, Joao C, and Kaus, Boris, "**Se
 ```bibtex
 @ARTICLE {almeida2022self,
       title={Self-replicating subduction zone initiation by polarity reversal},
-      author={Almeida, Jaime and Riel N, and Rosas, Filipe M and Duarte, Joao C and Kaus, Boris},
+      author={Almeida, Jaime and Riel N and Rosas, Filipe M and Duarte, Joao C and Kaus, Boris},
       journal={Communications Earth \& Environment},
       volume={3},
       number={1},
@@ -785,7 +815,7 @@ Almeida, Jaime, Riel N,, Rosas, Filipe M, Duarte, Joao C, and Kaus, Boris, "**Se
 
 ## [riel2022magemin](#riel2022magemin)
 
-Riel Nicolas,, Kaus, Boris JP, Green, ECR, and Berlie, Nicolas, "**MAGEMin, an efficient Gibbs energy minimizer: application to igneous systems**," *Geochemistry, Geophysics, Geosystems*, Vol. 23, No. 7, 2022, e2022GC010427.
+Riel, Nicolas, Kaus, Boris JP, Green, ECR, and Berlie, Nicolas, "**MAGEMin, an efficient Gibbs energy minimizer: application to igneous systems**," *Geochemistry, Geophysics, Geosystems*, Vol. 23, No. 7, 2022, e2022GC010427.
 
 [](#riel2022mageminBib)
 **BibTeX entry:**
@@ -795,7 +825,7 @@ Riel Nicolas,, Kaus, Boris JP, Green, ECR, and Berlie, Nicolas, "**MAGEMin, an e
 ```bibtex
 @ARTICLE {riel2022magemin,
       title={MAGEMin, an efficient Gibbs energy minimizer: application to igneous systems},
-      author={Riel Nicolas, and Kaus, Boris JP and Green, ECR and Berlie, Nicolas},
+      author={Riel, Nicolas and Kaus, Boris JP and Green, ECR and Berlie, Nicolas},
       journal={Geochemistry, Geophysics, Geosystems},
       volume={23},
       number={7},
@@ -809,7 +839,7 @@ Riel Nicolas,, Kaus, Boris JP, Green, ECR, and Berlie, Nicolas, "**MAGEMin, an e
 
 ## [theunissen2022relative](#theunissen2022relative)
 
-Theunissen, Thomas, Huismans, Ritske S, Lu, Gang, and Riel Nicolas,, "**Relative continent/mid-ocean ridge elevation: a reference case for isostasy in geodynamics**," *Earth-Science Reviews*, 2022, p. 104153.
+Theunissen, Thomas, Huismans, Ritske S, Lu, Gang, and Riel Nicolas, "**Relative continent/mid-ocean ridge elevation: a reference case for isostasy in geodynamics**," *Earth-Science Reviews*, 2022, p. 104153.
 
 [](#theunissen2022relativeBib)
 **BibTeX entry:**
@@ -819,7 +849,7 @@ Theunissen, Thomas, Huismans, Ritske S, Lu, Gang, and Riel Nicolas,, "**Relative
 ```bibtex
 @ARTICLE {theunissen2022relative,
       title={Relative continent/mid-ocean ridge elevation: a reference case for isostasy in geodynamics},
-      author={Theunissen, Thomas and Huismans, Ritske S and Lu, Gang and Riel Nicolas,},
+      author={Theunissen, Thomas and Huismans, Ritske S and Lu, Gang and Riel Nicolas},
       journal={Earth-Science Reviews},
       pages={104153},
       year={2022},
@@ -831,7 +861,7 @@ Theunissen, Thomas, Huismans, Ritske S, Lu, Gang, and Riel Nicolas,, "**Relative
 
 ## [riel2023subduction](#riel2023subduction)
 
-Riel Nicolas,, Duarte, Joao C, Almeida, Jaime, Kaus, Boris JP, Rosas, Filipe, Rojas-Agramonte, Yamirka, and Popov, Anton, "**Subduction initiation triggered the Caribbean large igneous province**," *Nature Communications*, Vol. 14, No. 1, 2023, p. 786.
+Riel, Nicolas, Duarte, Joao C, Almeida, Jaime, Kaus, Boris JP, Rosas, Filipe, Rojas-Agramonte, Yamirka, and Popov, Anton, "**Subduction initiation triggered the Caribbean large igneous province**," *Nature Communications*, Vol. 14, No. 1, 2023, p. 786.
 
 [](#riel2023subductionBib)
 **BibTeX entry:**
@@ -841,7 +871,7 @@ Riel Nicolas,, Duarte, Joao C, Almeida, Jaime, Kaus, Boris JP, Rosas, Filipe, Ro
 ```bibtex
 @ARTICLE {riel2023subduction,
       title={Subduction initiation triggered the Caribbean large igneous province},
-      author={Riel Nicolas, and Duarte, Joao C and Almeida, Jaime and Kaus, Boris JP and Rosas, Filipe and Rojas-Agramonte, Yamirka and Popov, Anton},
+      author={Riel, Nicolas and Duarte, Joao C and Almeida, Jaime and Kaus, Boris JP and Rosas, Filipe and Rojas-Agramonte, Yamirka and Popov, Anton},
       journal={Nature Communications},
       volume={14},
       number={1},
