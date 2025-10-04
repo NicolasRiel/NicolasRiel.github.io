@@ -37,6 +37,36 @@ Duarte, Joao, Riel, Nicolas, Civiero, Chiara, Silva, Sonia, Rosas, Filipe M, Sch
 
 {% endraw %}
 
+## [DuarteRiel2025](#DuarteRiel2025)
+
+Duarte, Joao and Riel, Nicolas, "**Tectonic plate delamination could explain large earthquakes at the Iberian Margin**," *Nature Geoscience*, Aug 2025. <a href='https://doi.org/10.1038/s41561-025-01810-4' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1038/s41561-025-01810-4' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Geophysical observations and computer simulations suggest that a tectonic plate segment is delaminating in the area that generated a large earthquake that destroyed Lisbon in 1755. This rare oceanic delamination might be a precursor of subduction initiation, which could explain the cause of several large earthquakes in the Atlantic Ocean.
+
+[](#DuarteRiel2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {DuarteRiel2025,
+    author={Duarte, Joao and Riel, Nicolas},
+    title={Tectonic plate delamination could explain large earthquakes at the Iberian Margin},
+    journal={Nature Geoscience},
+    year={2025},
+    month={Aug},
+    day={27},
+    abstract={Geophysical observations and computer simulations suggest that a tectonic plate segment is delaminating in the area that generated a large earthquake that destroyed Lisbon in 1755. This rare oceanic delamination might be a precursor of subduction initiation, which could explain the cause of several large earthquakes in the Atlantic Ocean.},
+    issn={1752-0908},
+    doi={10.1038/s41561-025-01810-4},
+    url={https://doi.org/10.1038/s41561-025-01810-4}
+}
+```
+
+{% endraw %}
+
 ## [soderman2025mid](#soderman2025mid)
 
 Soderman, Caroline R, Weller, Owen M, Beard, Charles D, Riel, Nicolas, Green, Eleanor CR, and Holland, Tim JB, "**A mid-crustal tipping point between silica-undersaturated and silica-oversaturated magmas**," *Nature Geoscience*, 2025, pp. 1-8.
