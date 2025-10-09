@@ -37,6 +37,31 @@ Duarte, Joao, Riel, Nicolas, Civiero, Chiara, Silva, Sonia, Rosas, Filipe M, Sch
 
 {% endraw %}
 
+## [gmd-18-6951-2025](#gmd-18-6951-2025)
+
+Riel, N., Kaus, B. J. P., de Montserrat, A., Moulas, E., Green, E. C. R., and Dominguez, H., "**A bound-constrained formulation for complex solution phase minimization**," *Geoscientific Model Development*, Vol. 18, No. 19, 2025, pp. 6951-6962. <a href='https://gmd.copernicus.org/articles/18/6951/2025/' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.5194/gmd-18-6951-2025' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#gmd-18-6951-2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {gmd-18-6951-2025,
+    AUTHOR = {Riel, N. and Kaus, B. J. P. and de Montserrat, A. and Moulas, E. and Green, E. C. R. and Dominguez, H.},
+    TITLE = {A bound-constrained formulation for complex solution phase minimization},
+    JOURNAL = {Geoscientific Model Development},
+    VOLUME = {18},
+    YEAR = {2025},
+    NUMBER = {19},
+    PAGES = {6951--6962},
+    URL = {https://gmd.copernicus.org/articles/18/6951/2025/},
+    DOI = {10.5194/gmd-18-6951-2025}
+}
+```
+
+{% endraw %}
+
 ## [DuarteRiel2025](#DuarteRiel2025)
 
 Duarte, Joao and Riel, Nicolas, "**Tectonic plate delamination could explain large earthquakes at the Iberian Margin**," *Nature Geoscience*, Aug 2025. <a href='https://doi.org/10.1038/s41561-025-01810-4' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1038/s41561-025-01810-4' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
