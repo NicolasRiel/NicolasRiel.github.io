@@ -7,6 +7,36 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [ASSUNCAO2025231030](#ASSUNCAO2025231030)
+
+Jamison Assunção, Boris J.P. Kaus, Andrea Piccolo, Nicolas Riel, and Victor Sacek, "**Sensitivity analysis of lithospheric convergence velocity in numerical simulations of self-sustained Andean-type subduction**," *Tectonophysics*, 2025, p. 231030. <a href='https://www.sciencedirect.com/science/article/pii/S0040195125004160' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1016/j.tecto.2025.231030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Plate velocities on Earth are all on the order of several centimeters per year, despite large uncertainties in mantle rheology and plate geometry. Here, we conducted a series of 2D self-sustained Andean-type subduction simulations, and investigated how the convergence speed between an oceanic and a continental lithosphere is influenced by plate geometry, lower mantle rheology and the presence of a partial melt zone (PMZ) of relatively low viscosity under the oceanic lithosphere. We ran sets of simulations with different oceanic plate lengths at the surface (OPLS), ranging from 1000 to 5000 km. The overall subduction pattern displayed a relatively rapid acceleration of the subducting plate, followed by a deceleration of approximately the same duration until the plate reached the lower mantle. After this point, the convergence velocity tends to remain stable, varying up to 3.5 cm/yr during subduction across most of the simulated scenarios, supporting the hypothesis of sustained convergence rates for tens of millions of years. We found a linear relationship between the OPLS and the average convergence speed after the plates reach the 660-km discontinuity, with the average convergence velocity decreasing by a rate of approximately 1.3 cm/yr per each additional 1000 km of OPLS. We also tested the sensitivity of the average convergence velocity to variations in lower mantle viscosity and found that decreasing the viscosity from 1.5 × 1022 to 0.5 × 1022 Pa⋅s increased the convergence speed of the subducting plate–after reaching the 660-km discontinuity–by up to a factor of three, hindering convergence stability. By testing the effect of a PMZ modeled via asthenospheric rheology scaling, we found that it does not significantly alter the convergence speed stability or affect the kinematics. Instead, it primarily mimics the behavior of a scenario with a smaller oceanic plate.
+
+[](#ASSUNCAO2025231030Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {ASSUNCAO2025231030,
+    title = {Sensitivity analysis of lithospheric convergence velocity in numerical simulations of self-sustained Andean-type subduction},
+    journal = {Tectonophysics},
+    pages = {231030},
+    year = {2025},
+    issn = {0040-1951},
+    doi = {https://doi.org/10.1016/j.tecto.2025.231030},
+    url = {https://www.sciencedirect.com/science/article/pii/S0040195125004160},
+    author = {Jamison Assunção and Boris J.P. Kaus and Andrea Piccolo and Nicolas Riel and Victor Sacek},
+    keywords = {Subduction, Numerical modeling, Sensitivity study, Finite difference method, Low viscosity zone, Andean-type subduction},
+    abstract = {Plate velocities on Earth are all on the order of several centimeters per year, despite large uncertainties in mantle rheology and plate geometry. Here, we conducted a series of 2D self-sustained Andean-type subduction simulations, and investigated how the convergence speed between an oceanic and a continental lithosphere is influenced by plate geometry, lower mantle rheology and the presence of a partial melt zone (PMZ) of relatively low viscosity under the oceanic lithosphere. We ran sets of simulations with different oceanic plate lengths at the surface (OPLS), ranging from 1000 to 5000 km. The overall subduction pattern displayed a relatively rapid acceleration of the subducting plate, followed by a deceleration of approximately the same duration until the plate reached the lower mantle. After this point, the convergence velocity tends to remain stable, varying up to 3.5 cm/yr during subduction across most of the simulated scenarios, supporting the hypothesis of sustained convergence rates for tens of millions of years. We found a linear relationship between the OPLS and the average convergence speed after the plates reach the 660-km discontinuity, with the average convergence velocity decreasing by a rate of approximately 1.3 cm/yr per each additional 1000 km of OPLS. We also tested the sensitivity of the average convergence velocity to variations in lower mantle viscosity and found that decreasing the viscosity from 1.5 × 1022 to 0.5 × 1022 Pa⋅s increased the convergence speed of the subducting plate–after reaching the 660-km discontinuity–by up to a factor of three, hindering convergence stability. By testing the effect of a PMZ modeled via asthenospheric rheology scaling, we found that it does not significantly alter the convergence speed stability or affect the kinematics. Instead, it primarily mimics the behavior of a scenario with a smaller oceanic plate.}
+}
+```
+
+{% endraw %}
+
 ## [Duarte2025](#Duarte2025)
 
 Duarte, Joao, Riel, Nicolas, Civiero, Chiara, Silva, Sonia, Rosas, Filipe M, Schellart, Wouter P, Almeida, Jaime, Terrinha, Pedro, and Ribeiro, Antonio, "**Seismic evidence for oceanic plate delamination offshore Southwest Iberia**," *Nature Geoscience*, Aug 2025. <a href='https://doi.org/10.1038/s41561-025-01781-6' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1038/s41561-025-01781-6' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
