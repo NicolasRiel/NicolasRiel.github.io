@@ -7,6 +7,39 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [https://doi.org/10.1029/2025JB032901](#https://doi.org/10.1029/2025JB032901)
+
+Ren, Jun, Faccenda, Manuele, Zhong, Xin, Galvez, Matthieu E., Yang, Jianfeng, and Riel, Nicolas, "**Chemical-Thermomechanical Modeling of Open-System Mass Transfer: Application to the Subduction Interface**," *Journal of Geophysical Research: Solid Earth*, Vol. 131, No. 2, 2026, e2025JB032901. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB032901' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1029/2025JB032901' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Abstract One of the main limitations in simulating subsolidus metasomatism is the decoupling between thermomechanical models and chemical/thermodynamic modeling. This decoupling amplifies the uncertainty associated with mass transport. Here, we introduce a fluid-rock chemical-thermomechanical interaction scheme, which integrates thermodynamic modeling (via the Backcalc algorithm and MAGEMin software) into a 2D thermomechanical code. This approach enables us to track the fate of multicomponent slab-derived metamorphic fluids and the resultant spatially heterogeneous geochemical signatures at the slab-mantle interface (SMI). Our modeling results show that slab-derived nonvolatile element fluxes (i.e., Si, Al, Ca) are predominantly precipitated right above the SMI, forming a highly altered layer where fluid availability and element mobility promote the development of mineral zonation. A similar phenomenon also occurs within mélange zones wherever sharp chemical gradients are present. This indicates that nonvolatile element accumulation is not tied to a specific location, but rather to chemical contrasts, which is consistent with field observations. Additionally, advective transport of solid rock is found to be at least two orders of magnitude more efficient than fluid infiltration in the redistribution of mass from slab to mélange zones, further promoting the chemical complexity of mélange zones. Overall, this new tool offers a promising platform for improving our understanding of the interplay between rock chemistry and mechanics, chemical budgets, and magmatism at convergent margins.
+
+[](#https://doi.org/10.1029/2025JB032901Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {https://doi.org/10.1029/2025JB032901,
+    author = {Ren, Jun and Faccenda, Manuele and Zhong, Xin and Galvez, Matthieu E. and Yang, Jianfeng and Riel, Nicolas},
+    title = {Chemical-Thermomechanical Modeling of Open-System Mass Transfer: Application to the Subduction Interface},
+    journal = {Journal of Geophysical Research: Solid Earth},
+    volume = {131},
+    number = {2},
+    pages = {e2025JB032901},
+    keywords = {fluid-rock interaction, subduction interface, mass transfer, metasomatism},
+    doi = {https://doi.org/10.1029/2025JB032901},
+    url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB032901},
+    eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JB032901},
+    note = {e2025JB032901 2025JB032901},
+    abstract = {Abstract One of the main limitations in simulating subsolidus metasomatism is the decoupling between thermomechanical models and chemical/thermodynamic modeling. This decoupling amplifies the uncertainty associated with mass transport. Here, we introduce a fluid-rock chemical-thermomechanical interaction scheme, which integrates thermodynamic modeling (via the Backcalc algorithm and MAGEMin software) into a 2D thermomechanical code. This approach enables us to track the fate of multicomponent slab-derived metamorphic fluids and the resultant spatially heterogeneous geochemical signatures at the slab-mantle interface (SMI). Our modeling results show that slab-derived nonvolatile element fluxes (i.e., Si, Al, Ca) are predominantly precipitated right above the SMI, forming a highly altered layer where fluid availability and element mobility promote the development of mineral zonation. A similar phenomenon also occurs within mélange zones wherever sharp chemical gradients are present. This indicates that nonvolatile element accumulation is not tied to a specific location, but rather to chemical contrasts, which is consistent with field observations. Additionally, advective transport of solid rock is found to be at least two orders of magnitude more efficient than fluid infiltration in the redistribution of mass from slab to mélange zones, further promoting the chemical complexity of mélange zones. Overall, this new tool offers a promising platform for improving our understanding of the interplay between rock chemistry and mechanics, chemical budgets, and magmatism at convergent margins.},
+    year = {2026}
+}
+```
+
+{% endraw %}
+
 ## [ASSUNCAO2025231030](#ASSUNCAO2025231030)
 
 Jamison Assunção, Boris J.P. Kaus, Andrea Piccolo, Nicolas Riel, and Victor Sacek, "**Sensitivity analysis of lithospheric convergence velocity in numerical simulations of self-sustained Andean-type subduction**," *Tectonophysics*, 2025, p. 231030. <a href='https://www.sciencedirect.com/science/article/pii/S0040195125004160' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1016/j.tecto.2025.231030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
