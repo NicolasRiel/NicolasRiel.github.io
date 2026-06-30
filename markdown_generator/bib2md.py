@@ -1,6 +1,7 @@
 # bib2md.py
 # updated from PHP to Python, MCW, January 2024
 # Usage: python3 bib2md.py [bibtex_file] [output_dir]
+# python3 bib2md.py nriel.bib
 
 import sys   # to allow command-line args
 from bibtexref3_md import *

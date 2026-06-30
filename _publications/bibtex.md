@@ -40,6 +40,31 @@ Ren, Jun, Faccenda, Manuele, Zhong, Xin, Galvez, Matthieu E., Yang, Jianfeng, an
 
 {% endraw %}
 
+## [Gleeson2026](#Gleeson2026)
+
+Gleeson, M., Wieser, P., Antoshechkina, P. and Riel, N., "**PetThermoTools: a fast, flexible, and accessible Python3 package for performing thermodynamic calculations**," *Volcanica*, Vol. 9, No. 1, 2026, e2025JB032901. <a href='https://10.30909/vol/lepa7012' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#Gleeson2026Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {Gleeson2026,
+    author = {Gleeson, M., Wieser, P., Antoshechkina, P. and Riel, N.},
+    title = {PetThermoTools: a fast, flexible, and accessible Python3 package for performing thermodynamic calculations},
+    journal = {Volcanica},
+    volume = {9},
+    number = {1},
+    pages = {e2025JB032901},
+    keywords = {fluid-rock interaction, subduction interface, mass transfer, metasomatism},
+    doi = {https://10.30909/vol/lepa7012},
+    year = {2026}
+}
+```
+
+{% endraw %}
+
 ## [ASSUNCAO2025231030](#ASSUNCAO2025231030)
 
 Jamison Assunção, Boris J.P. Kaus, Andrea Piccolo, Nicolas Riel, and Victor Sacek, "**Sensitivity analysis of lithospheric convergence velocity in numerical simulations of self-sustained Andean-type subduction**," *Tectonophysics*, 2025, p. 231030. <a href='https://www.sciencedirect.com/science/article/pii/S0040195125004160' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1016/j.tecto.2025.231030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>

@@ -10,6 +10,7 @@ current_semester: "Fall 2025"
 
 | Year | Course | Location |
 |---|---|---|
+**2026** | Geophysical modeling: introduction to LaMEM | University of Heidelberg| 
 **2025** | Geophysical modeling: introduction to LaMEM | University of Heidelberg| 
 **2024** | Geophysical modeling: introduction to LaMEM | University of Heidelberg| 
 **2023** | Geostatistic: introduction to programming applied to geosciences problems | University of Mainz| 
