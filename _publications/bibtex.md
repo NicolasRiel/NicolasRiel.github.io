@@ -7,21 +7,33 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
-## [Riel_inpress_Li](#Riel_inpress_Li)
+## [https://doi.org/10.1029/2025GC012877](#https://doi.org/10.1029/2025GC012877)
 
-textbfRiel, Nicolas, Weller, Owen M., Soderman, Caroline R., Costa, Elisa O., Morris, Matthew C., Moulas, Evangelos, and Kaus, Boris J. P., "**Thermodynamic modelling of lithium enrichment during partial melting: the importance of partition coefficients**," *Geochemistry, Geophysics, Geosystems*, in press.
+Riel, Nicolas, Weller, Owen M., Soderman, Caroline R., Costa, Elisa O., Morris, Matthew C., Moulas, Evangelos, and Kaus, Boris J. P., "**Thermodynamic Modeling of Lithium Enrichment During Partial Melting: The Importance of Partition Coefficients**," *Geochemistry, Geophysics, Geosystems*, Vol. 27, No. 7, 2026, e2025GC012877. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GC012877' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://doi.org/10.1029/2025GC012877' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
-[](#Riel_inpress_LiBib)
+**Abstract:**
+
+   Abstract Predicting the partial melting conditions that generate Li-rich peraluminous melts is of major economic and societal importance. However, existing models disagree on the optimal conditions (e.g., pressure, temperature, protolith) and, consequently, on targets for exploration. A key source of divergence in model outcomes lies in the choices of partition coefficients used to describe lithium distribution between minerals and melt $left(D_textLi^textmineral/meltright)$. Here, we use thermodynamic modeling to simulate isobaric stepwise partial melting of a global compilation of pelite compositions, at crustal pressures and considering variable water saturation and melt extraction thresholds, to calculate melt lithium enrichment predicted by four recently published $D_textLi^textmineral/melt$ sets. Our results quantify the conditions that maximize lithium enrichment. Depending on $D_textLi^textmineral/melt$ choices, the predicted optimal conditions range from high-pressure, low-temperature melting of wacke-like compositions, to intermediate-pressure, high-temperature melting of both wacke- and shale-like compositions, or in some cases show limited sensitivity to these parameters. Among these scenarios, the intermediate-pressure, high-temperature melting regimes (associated with biotite breakdown) are most consistent with existing geological and geochemical evidence from lithium-rich granite and pegmatites. Such behavior is produced when lithium is treated as strongly compatible in biotite relative to other minerals, such as is thought to be the case in fluorinated biotite. Moving forward, pressure-, temperature-, and composition-dependent lithium partitioning models—such as recently developed for biotite—will be crucial to accurately evaluate Li behavior in anatectic systems.
+
+[](#https://doi.org/10.1029/2025GC012877Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@ARTICLE {Riel_inpress_Li,
-      author  = {\textbf{Riel, Nicolas} and Weller, Owen M. and Soderman, Caroline R. and Costa, Elisa O. and Morris, Matthew C. and Moulas, Evangelos and Kaus, Boris J. P.},
-      title   = {Thermodynamic modelling of lithium enrichment during partial melting: the importance of partition coefficients},
-      journal = {Geochemistry, Geophysics, Geosystems},
-      year    = {in press}
+@ARTICLE {https://doi.org/10.1029/2025GC012877,
+    author = {Riel, Nicolas and Weller, Owen M. and Soderman, Caroline R. and Costa, Elisa O. and Morris, Matthew C. and Moulas, Evangelos and Kaus, Boris J. P.},
+    title = {Thermodynamic Modeling of Lithium Enrichment During Partial Melting: The Importance of Partition Coefficients},
+    journal = {Geochemistry, Geophysics, Geosystems},
+    volume = {27},
+    number = {7},
+    pages = {e2025GC012877},
+    doi = {https://doi.org/10.1029/2025GC012877},
+    url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GC012877},
+    eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025GC012877},
+    note = {e2025GC012877 2025GC012877},
+    abstract = {Abstract Predicting the partial melting conditions that generate Li-rich peraluminous melts is of major economic and societal importance. However, existing models disagree on the optimal conditions (e.g., pressure, temperature, protolith) and, consequently, on targets for exploration. A key source of divergence in model outcomes lies in the choices of partition coefficients used to describe lithium distribution between minerals and melt \$\left({D}\_{\text{Li}}^{\text{mineral/melt}}\right)\$. Here, we use thermodynamic modeling to simulate isobaric stepwise partial melting of a global compilation of pelite compositions, at crustal pressures and considering variable water saturation and melt extraction thresholds, to calculate melt lithium enrichment predicted by four recently published \${D}\_{\text{Li}}^{\text{mineral/melt}}\$ sets. Our results quantify the conditions that maximize lithium enrichment. Depending on \${D}\_{\text{Li}}^{\text{mineral/melt}}\$ choices, the predicted optimal conditions range from high-pressure, low-temperature melting of wacke-like compositions, to intermediate-pressure, high-temperature melting of both wacke- and shale-like compositions, or in some cases show limited sensitivity to these parameters. Among these scenarios, the intermediate-pressure, high-temperature melting regimes (associated with biotite breakdown) are most consistent with existing geological and geochemical evidence from lithium-rich granite and pegmatites. Such behavior is produced when lithium is treated as strongly compatible in biotite relative to other minerals, such as is thought to be the case in fluorinated biotite. Moving forward, pressure-, temperature-, and composition-dependent lithium partitioning models—such as recently developed for biotite—will be crucial to accurately evaluate Li behavior in anatectic systems.},
+    year = {2026}
 }
 ```
 
