@@ -39,6 +39,27 @@ Riel, Nicolas, Weller, Owen M., Soderman, Caroline R., Costa, Elisa O., Morris, 
 
 {% endraw %}
 
+## [magrini2026toba](#magrini2026toba)
+
+Magrini, F., De Siena, L., Forni, F., Diaferia, G., Riel, Nicolas, and Kaus, B. J. P., "**Petroseismic evidence for eruptible magma underneath Toba**," *Science (accepted)*, 2026.
+
+[](#magrini2026tobaBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {magrini2026toba,
+      title={Petroseismic evidence for eruptible magma underneath {T}oba},
+      author={Magrini, F. and De Siena, L. and Forni, F. and Diaferia, G. and Riel, Nicolas and Kaus, B. J. P.},
+      journal={Science (accepted)},
+      note={accepted},
+      year={2026}
+}
+```
+
+{% endraw %}
+
 ## [Dominguez2026](#Dominguez2026)
 
 Dominguez, Hugo, Tamblyn, Ren'ee, Tedeschi, Mahyra, Riel, Nicolas, Forshaw, Jacob B., Jaillard, Etienne, Mac'ias-Mosquera, Samuel, and Lanari, Pierre, "**From partial melting to pluton emplacement: insights from zircon and titanite petrochronology of the El Oro complex, Ecuador**," *Contributions to Mineralogy and Petrology*, Vol. 181, No. 11, 2026, p. 94. <a href='https://doi.org/10.1007/s00410-026-02346-5' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1007/s00410-026-02346-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
