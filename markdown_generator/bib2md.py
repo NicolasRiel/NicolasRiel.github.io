@@ -65,8 +65,8 @@ def generate_files(bibTexFile, outputDir):
 
     # generate single file with recent publications (since $year)
     outfile = "recent.md"
-    year = 2023
-    paper_string = bib_query(bibTexFile, f"(self.get('YEAR') >= \"{year}\")", "!self.get('PUBDATE')", "20")
+    year = 2024
+    paper_string = bib_query(bibTexFile, f"(self.get('YEAR') >= \"{year}\")", "!self.get('YEAR')", "20")
     generate_file(outputDir, outfile, "Recent Publications", "recent", "/publications/recent", paper_string)
 
     # # generate single file with award publications

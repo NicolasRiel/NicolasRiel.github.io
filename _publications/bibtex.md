@@ -39,6 +39,37 @@ Riel, Nicolas, Weller, Owen M., Soderman, Caroline R., Costa, Elisa O., Morris, 
 
 {% endraw %}
 
+## [Dominguez2026](#Dominguez2026)
+
+Dominguez, Hugo, Tamblyn, Ren'ee, Tedeschi, Mahyra, Riel, Nicolas, Forshaw, Jacob B., Jaillard, Etienne, Mac'ias-Mosquera, Samuel, and Lanari, Pierre, "**From partial melting to pluton emplacement: insights from zircon and titanite petrochronology of the El Oro complex, Ecuador**," *Contributions to Mineralogy and Petrology*, Vol. 181, No. 11, 2026, p. 94. <a href='https://doi.org/10.1007/s00410-026-02346-5' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1007/s00410-026-02346-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+**Abstract:**
+
+   Partial melting of the lower continental crust during high-temperature, low-pressure metamorphism is commonly associated with the emplacement of felsic plutons in the middle to upper crust. However, the duration and conditions of anatexis, melt extraction, and emplacement processes in these settings remain uncertain. The El Oro Complex in southern Ecuador preserves a kilometre-scale, tilted crustal section comprising a structurally continuous Triassic sequence of metamorphosed sedimentary rocks and associated S-type granitoids. A large number per sample of combined in situ zircon U--Pb dates and trace-element compositions has been obtained by laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) from both migmatites in the lower paleo-crust and granitoids in the middle to upper paleo-crust. This approach, combined with cathodoluminescence imaging, is used to distinguish different zircon populations within individual samples beyond U--Pb analytical uncertainty. All samples from both migmatites and granitoids mostly record zircon crystallisation ages between ca. 240 and 225 Ma. In the migmatites, trace-element heterogeneity in zircon is observed at the sample scale. Depending on the sample, this variability reflects either changes in the melting reactions or open-system behaviour involving melt influx from other sources at the scale of individual leucosomes. U--Pb dates and Zr-thermometry data from titanites using LA-ICP-MS were also collected from the Piedras metagabbro, commonly interpreted as the heat source for the sequence's metamorphism. Titanite grains record a consistent age of 227.5 $pm$ 4.5 (n = 94) Ma with a temperature of $sim$720--740 $^circ$C, and are interpreted as dating the cooling of the gabbro emplacement related to the end of metamorphism. Together, these data confirm the co-genetic link between the migmatites and the granitoids of the El Oro complex and the interpretation that the Piedras unit is the main heat source for the metamorphism. This study showcases important trace-element variability in zircons at the sample scale, both in migmatites and granitoids, reflecting the interplay between partial melting, melt extraction, and subsequent crystallisation.
+
+[](#Dominguez2026Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {Dominguez2026,
+      author    = {Dominguez, Hugo and Tamblyn, Ren{\'e}e and Tedeschi, Mahyra and Riel, Nicolas and Forshaw, Jacob B. and Jaillard, Etienne and Mac{\'\i}as-Mosquera, Samuel and Lanari, Pierre},
+      title     = {From partial melting to pluton emplacement: insights from zircon and titanite petrochronology of the {El Oro} complex, {Ecuador}},
+      journal   = {Contributions to Mineralogy and Petrology},
+      year      = {2026},
+      volume    = {181},
+      number    = {11},
+      pages     = {94},
+      issn      = {1432-0967},
+      doi       = {10.1007/s00410-026-02346-5},
+      url       = {https://doi.org/10.1007/s00410-026-02346-5},
+      abstract  = {Partial melting of the lower continental crust during high-temperature, low-pressure metamorphism is commonly associated with the emplacement of felsic plutons in the middle to upper crust. However, the duration and conditions of anatexis, melt extraction, and emplacement processes in these settings remain uncertain. The El Oro Complex in southern Ecuador preserves a kilometre-scale, tilted crustal section comprising a structurally continuous Triassic sequence of metamorphosed sedimentary rocks and associated S-type granitoids. A large number per sample of combined in situ zircon U--Pb dates and trace-element compositions has been obtained by laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) from both migmatites in the lower paleo-crust and granitoids in the middle to upper paleo-crust. This approach, combined with cathodoluminescence imaging, is used to distinguish different zircon populations within individual samples beyond U--Pb analytical uncertainty. All samples from both migmatites and granitoids mostly record zircon crystallisation ages between ca. 240 and 225 Ma. In the migmatites, trace-element heterogeneity in zircon is observed at the sample scale. Depending on the sample, this variability reflects either changes in the melting reactions or open-system behaviour involving melt influx from other sources at the scale of individual leucosomes. U--Pb dates and Zr-thermometry data from titanites using LA-ICP-MS were also collected from the Piedras metagabbro, commonly interpreted as the heat source for the sequence's metamorphism. Titanite grains record a consistent age of 227.5 $\pm$ 4.5 (n = 94) Ma with a temperature of $\sim$720--740 $^\circ$C, and are interpreted as dating the cooling of the gabbro emplacement related to the end of metamorphism. Together, these data confirm the co-genetic link between the migmatites and the granitoids of the El Oro complex and the interpretation that the Piedras unit is the main heat source for the metamorphism. This study showcases important trace-element variability in zircons at the sample scale, both in migmatites and granitoids, reflecting the interplay between partial melting, melt extraction, and subsequent crystallisation.}
+}
+```
+
+{% endraw %}
+
 ## [Gleeson2026](#Gleeson2026)
 
 Gleeson, M., Wieser, P., Antoshechkina, P., and Riel, N., "**PetThermoTools: a fast, flexible, and accessible Python3 package for performing thermodynamic calculations**," *Volcanica*, 2026. <a href='https://doi.org/10.30909/vol/lepa7012' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.30909/vol/lepa7012' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
